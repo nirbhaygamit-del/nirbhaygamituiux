@@ -1,3 +1,3 @@
 # nirbhaygamituiux
-This is mu UI UX project repo
+This is mu UI UX project repo. 
 Author -Nirbhay Gamit
